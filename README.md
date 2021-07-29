@@ -5,8 +5,8 @@ Sou apaixonado por técnologia e jogos digitais. Estou cada vez mais mergulhando
 - 🏢 Atualmente estou trabalhando como HelpDesk na empresa [Net Jacarei Telecon Ltd](https://netjacarei.com.br).
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luroque&show_icons=true&theme=material-palenight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luroque&layout=compact&show_icons=true&theme=material-palenight"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=luroque&show_icons=true&theme=material-palenight"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luroque&layout=compact&show_icons=true&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
