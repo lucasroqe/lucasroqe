@@ -3,10 +3,12 @@
 Sou apaixonado por técnologia e jogos digitais. Estou cada vez mais mergulhando nesta área de desenvolvimento :)
 
 - 🏢 Atualmente estou trabalhando como HelpDesk na empresa [Net Jacarei Telecon Ltd](https://netjacarei.com.br).
+- 📚 Estou cursando uma faculdade em Análise e Desenvolvimento de Sistemas.
+- 🖥️ Apresento conhecimento básico em: Html5, CSS3, Python, JavaScript e estou à procura de aprender mais e mais :D
 
 <div>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=luroque&show_icons=true&theme=material-palenight"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luroque&layout=compact&show_icons=true&theme=material-palenight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=luroque&show_icons=true&theme=material-palenight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luroque&layout=compact&show_icons=true&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
