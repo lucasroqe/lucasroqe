@@ -7,8 +7,8 @@ Sou apaixonado por técnologia e jogos digitais. Estou cada vez mais me aprofund
 - 🖥️ Apresento conhecimento básico em: Html5, CSS3, Python, JavaScript e estou à procura de aprender mais e mais :D
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=luroque&show_icons=true&theme=material-palenight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luroque&layout=compact&show_icons=true&theme=material-palenight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasroqe&show_icons=true&theme=material-palenight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasroqe&layout=compact&show_icons=true&theme=material-palenight"/>
 </div>
 
 <div style="display: inline_block"><br>
