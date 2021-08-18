@@ -1,6 +1,6 @@
 ### Olá! Sou o Lucas Roque👋
 
-Sou apaixonado por técnologia e jogos digitais. Estou cada vez mais me aprofundando nesta área de desenvolvimento :)
+Sou apaixonado por técnologia e jogos digitais. Estou cada vez mais me aprofundando na área de desenvolvimento :)
 
 - 🏢 Atualmente estou trabalhando como HelpDesk na empresa [Net Jacarei Telecon Ltd](https://netjacarei.com.br).
 - 📚 Estou cursando uma faculdade em Análise e Desenvolvimento de Sistemas.
