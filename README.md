@@ -2,7 +2,7 @@
 
 Sou apaixonado por técnologia e jogos digitais. Estou cada vez mais me aprofundando na área de desenvolvimento :)
 
-- 🏢 Atualmente estou trabalhando como HelpDesk na empresa [Net Jacarei Telecon Ltd](https://netjacarei.com.br).
+- 🏢 Atualmente estou trabalhando como HelpDesk Pleno na empresa [Net Jacarei Telecon Ltd](https://netjacarei.com.br).
 - 📚 Estou cursando uma faculdade em Análise e Desenvolvimento de Sistemas.
 - 🖥️ Apresento conhecimento básico em: Html5, CSS3, Python, JavaScript e estou à procura de aprender mais e mais :D
 
