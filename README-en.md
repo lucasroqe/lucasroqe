@@ -6,7 +6,8 @@ Studying **Multiplatform Software Development** at FATEC (Faculty of Technology 
 Working as **Telecom Analyst** at [Redt Comunicação Multimídia](https://redt.com.br).
 
 ## **About me:**
-* I like helping other people and learning from them.
+* Lover of technology;
+* I like helping other people and learning from them;
 * In my free time I like to play games and go out with friends/family.
 
 <a href="https://www.linkedin.com/in/lucasroqe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23000000?style= for-the-badge&logo=linkedin&logoColor=white"/></a>
