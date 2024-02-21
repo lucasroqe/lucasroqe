@@ -6,7 +6,7 @@ Cursando **Desenvolvimento de Software em Multiplataforma** na FATEC (Faculdade 
 Atuando como **Analista de Telecom** na [Redt Comunicação Multimídia](https://redt.com.br).
 
 ## **Sobre mim:**
-* Apaixonado por técnologia;
+* Apaixonado por tecnologia;
 * Gosto de ajudar outras pessoas e aprender com elas;
 * Em meu tempo livre gosto de sair com amigos/família.
 
