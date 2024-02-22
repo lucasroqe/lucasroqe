@@ -3,7 +3,7 @@
 
 Cursando **Desenvolvimento de Software em Multiplataforma** na FATEC (Faculdade de Tecnologia do Estado de São Paulo).
 
-Atuando como **Analista de Telecom** na [Redt Comunicação Multimídia](https://redt.com.br).
+Atualmente atuando como **Analista de Telecom**, estou migrando de área e buscando oportunidades de estágio ou colaboração em projetos desafiadores.
 
 ## **Sobre mim:**
 * Apaixonado por tecnologia;
