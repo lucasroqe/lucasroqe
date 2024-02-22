@@ -1,4 +1,4 @@
-#Welcome!👋
+# Welcome!👋
 ###### Não fala inglês? Clique [here](https://github.com/lucasroqe/lucasroqe/blob/main/README.md) para ver a versão em português.
 
 Studying **Multiplatform Software Development** at FATEC (Faculty of Technology of the State of São Paulo).
