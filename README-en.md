@@ -3,7 +3,7 @@
 
 Studying **Multiplatform Software Development** at FATEC (Faculty of Technology of the State of São Paulo).
 
-Working as **Telecom Analyst** at [Redt Comunicação Multimídia](https://redt.com.br).
+Currently working as a **Telecom Analyst**, I'm moving to another area and looking for internship or collaboration opportunities in challenging projects.
 
 ## **About me:**
 * Lover of technology;
