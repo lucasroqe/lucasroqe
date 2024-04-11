@@ -1,9 +1,11 @@
 # Bem vindo!👋
 ###### Don't speak portuguese? Click [here](https://github.com/lucasroqe/lucasroqe/blob/main/README-en.md) to see the version in English.
 
-Cursando **Desenvolvimento de Software em Multiplataforma** na FATEC (Faculdade de Tecnologia do Estado de São Paulo).
+📚 Cursando **Desenvolvimento de Software em Multiplataforma** na FATEC (Faculdade de Tecnologia do Estado de São Paulo).
 
-Atualmente atuando como **Analista de Telecom**, estou migrando de área e buscando oportunidades de estágio e/ou participação em projetos desafiadores.
+💼 Atualmente trabalhando como Analista de Telecom, estou migrando de área e buscando oportunidades de estágio e/ou participação em projetos desafiadores para me tornar um grande Desenvolvedor de Software.
+
+🚀 No momento estou atuando no projeto acadêmico [**Golden Hive Solutions**](https://github.com/Golden-Hive-Solutions), uma aplicação WEB de instruções sobre SCRUM.
 
 ## **Sobre mim:**
 * Apaixonado por tecnologia;
