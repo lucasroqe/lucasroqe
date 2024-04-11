@@ -1,9 +1,11 @@
 # Welcome!👋
-###### Não fala inglês? Clique [here](https://github.com/lucasroqe/lucasroqe/blob/main/README.md) para ver a versão em português.
+###### Não fala inglês? Clique [aqui](https://github.com/lucasroqe/lucasroqe/blob/main/README.md) para ver a versão em português.
 
-Studying **Multiplatform Software Development** at FATEC (Faculty of Technology of the State of São Paulo).
+📚 Studying **Multiplatform Software Development** at FATEC (Faculty of Technology of the State of São Paulo).
 
-Currently working as a **Telecom Analyst**, I'm moving to another area and looking for internship and/or collaboration opportunities in challenging projects.
+💼 Currently working as a **Telecom Analyst**, I'm moving to another area and looking for internship and/or collaboration opportunities in challenging projects to become a great Software Developer.
+
+🚀 At the moment I'm acting in the academic project [**Golden Hive Solutions**](https://github.com/Golden-Hive-Solutions), a WEB application for SCRUM instructions.
 
 ## **About me:**
 * Lover of technology;
