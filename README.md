@@ -5,7 +5,7 @@
 
 💼 Atualmente trabalhando como Analista de Telecom, estou migrando de área e buscando oportunidades de estágio e/ou participação em projetos desafiadores para me tornar um grande Desenvolvedor de Software.
 
-🚀 No momento estou atuando no projeto acadêmico [**Golden Hive Solutions**](https://github.com/Golden-Hive-Solutions), uma aplicação WEB de instruções sobre SCRUM.
+🚀 No momento estou atuando no projeto acadêmico [**NutriMe**](https://github.com/crewTech-ABP), uma aplicação WEB quem mantém o registro dos alimentos consumidos diariamente pelos usuários para o controle de calorias e nutrientes.
 
 ## **Sobre mim:**
 * Apaixonado por tecnologia;
