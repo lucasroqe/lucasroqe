@@ -5,7 +5,7 @@
 
 💼 Currently working as a **Telecom Analyst**, I'm moving to another area and looking for internship and/or collaboration opportunities in challenging projects to become a great Software Developer.
 
-🚀 At the moment I'm acting in the academic project [**Golden Hive Solutions**](https://github.com/Golden-Hive-Solutions), a WEB application for SCRUM instructions.
+🚀 At the moment, I am working on the academic project [**NutriMe**](https://github.com/crewTech-ABP), a web application that keeps track of the food consumed daily by users for calorie and nutrient control.
 
 ## **About me:**
 * Lover of technology;
