@@ -3,9 +3,9 @@
 
 📚 Studying **Multiplatform Software Development** at FATEC (Faculty of Technology of the State of São Paulo).
 
-💼 Currently working as a **Telecom Analyst**, I'm moving to another area and looking for internship and/or collaboration opportunities in challenging projects to become a great Software Developer.
+💼  I'm currently moving from technical support area to the programming, looking for internship opportunities and/or participation in challenging projects to become a great Software Developer.
 
-🚀 At the moment, I am working on the academic project [**NutriMe**](https://github.com/crewTech-ABP), a web application that keeps track of the food consumed daily by users for calorie and nutrient control.
+🚀 In my last academic project I worked on the development of [**NutriMe**](https://github.com/crewTech-ABP), a web application that keeps track of the food consumed daily by users for calorie and nutrient control.
 
 ## **About me:**
 * Lover of technology;
