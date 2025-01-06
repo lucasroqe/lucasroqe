@@ -3,9 +3,9 @@
 
 📚 Cursando **Desenvolvimento de Software em Multiplataforma** na FATEC (Faculdade de Tecnologia do Estado de São Paulo).
 
-💼 Atualmente trabalhando como Analista de Telecom, estou migrando de área e buscando oportunidades de estágio e/ou participação em projetos desafiadores para me tornar um grande Desenvolvedor de Software.
+💼 Atualmente estou migrando da área de suporte técnico para o ramo da programação, buscando oportunidades de estágio e/ou participação em projetos desafiadores para me tornar um grande Desenvolvedor de Software.
 
-🚀 No momento estou atuando no projeto acadêmico [**NutriMe**](https://github.com/crewTech-ABP), uma aplicação WEB quem mantém o registro dos alimentos consumidos diariamente pelos usuários para o controle de calorias e nutrientes.
+🚀 Em meu último projeto acadêmico atuei no desenvolvimento do [**NutriMe**](https://github.com/crewTech-ABP), uma aplicação WEB quem mantém o registro dos alimentos consumidos diariamente pelos usuários para o controle de calorias e nutrientes.
 
 ## **Sobre mim:**
 * Apaixonado por tecnologia;
